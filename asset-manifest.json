@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/volokads.github.io/goit-react-hw-03-phonebook/static/css/main.a617e044.chunk.css",
+    "main.js": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/main.288f3f91.chunk.js",
+    "main.js.map": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/main.288f3f91.chunk.js.map",
+    "runtime-main.js": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/runtime-main.1611dcd5.js",
+    "runtime-main.js.map": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/runtime-main.1611dcd5.js.map",
+    "static/js/2.90e05282.chunk.js": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/2.90e05282.chunk.js",
+    "static/js/2.90e05282.chunk.js.map": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/2.90e05282.chunk.js.map",
+    "index.html": "/volokads.github.io/goit-react-hw-03-phonebook/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/volokads.github.io/goit-react-hw-03-phonebook/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.90e05282.chunk.js.LICENSE.txt": "/volokads.github.io/goit-react-hw-03-phonebook/static/js/2.90e05282.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1611dcd5.js",
+    "static/js/2.90e05282.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.288f3f91.chunk.js"
+  ]
+}

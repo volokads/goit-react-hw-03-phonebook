@@ -53,7 +53,7 @@ class Form extends Component {
                     onChange={this.formChange}
                     autoComplete="off"
                 />
-                <button type="submit" onClick={this.formSubmit} >Add contact</button>
+                <button className='Btn' type="submit" onClick={this.formSubmit} >Add contact</button>
             </form>
 
         )

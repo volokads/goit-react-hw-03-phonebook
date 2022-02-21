@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Btn{
+  display: inline-block;
+  margin: 10px 10px 0 10px;
+  width: 20%;
+  height:26px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
